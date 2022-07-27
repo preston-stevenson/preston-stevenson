@@ -1,4 +1,4 @@
-- I’m @preston-stevenson
+- I’m Preston
 - I love basketball, specifically the NBA
 - My first completed project was recreating Daniel Myers BPM and my current project is completing Marica Manisera and Paola Zuccolotto's basketball data science book, while adding new applications with 21-22 data. I also am working through code provided by Owen Philips (New York Knicks) and the code he has provided on his F5 substack.
 
