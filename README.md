@@ -1,6 +1,7 @@
 - I’m Preston
 - I love basketball, specifically the NBA
-- My first completed project was recreating Daniel Myers BPM and I have code from Paola Zuccolotto's Basketball data science book. Also, I am working through visualizations provided by Owen Philips (New York Knicks) from his F5 substack.
+- I have code for some a recreation of Daniel Myers' BPM, some NBA visualizations, and some snippets from Paola Zuccolotto's "Basketball Data Science".
+- I have been working on Python separately, so I have not updated this in a while.
 
 <!---
 preston-stevenson/preston-stevenson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
